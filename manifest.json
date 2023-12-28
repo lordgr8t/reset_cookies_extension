@@ -2,7 +2,7 @@
   // Required
   "version": "1.0",
   "manifest_version": 3,
-  "name": "noPost",
+  "name": "Drop cookies",
 
   "icons": {"128": "fls/i.png"},
   "action": {
